@@ -1,5 +1,5 @@
 ---
-name: brainstorming
+name: suvin-brain-storm
 description: >
   头脑风暴与需求追问框架——帮助 Claude 系统性地拆解和细化任何需求，直到无歧义、可直接实现为止。
   当用户说"帮我拆解需求"、"我有个功能想法"、"帮我做需求分析"、"我想做一个系统/功能/产品"、
@@ -8,7 +8,7 @@ description: >
   所有项目无论大小，都必须先完成设计并获得用户批准后才能进入实现。
 ---
 
-# 头脑风暴与需求追问框架（Brainstorming & Requirements Elicitation）
+# 头脑风暴与需求追问框架（suvin-brain-storm & Requirements Elicitation）
 
 ## 核心目标
 
@@ -170,7 +170,7 @@ description: >
 
 关于 UI 主题的问题不一定是视觉问题。"在这个上下文中 personality 是什么意思？" 是概念问题——使用终端。"哪种向导布局更好？" 是视觉问题——使用浏览器。
 
-如用户同意伴侣，在继续前阅读详细指南：`skills/brainstorming/visual-companion.md`
+如用户同意伴侣，在继续前阅读详细指南：`skills/suvin-brain-storm/visual-companion.md`
 
 ---
 

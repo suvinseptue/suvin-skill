@@ -17,7 +17,7 @@
 
 ## 问题树输出格式
 
-将问题树输出到对话中，格式如下：
+将问题树写到`docs/question-tree/YYYY-MM-DD-<topic>-tree.md`，格式如下：
 
 ```markdown
 ## 问题树
