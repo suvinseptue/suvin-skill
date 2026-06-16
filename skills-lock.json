@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "baoyu-article-illustrator": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "233ad2d6d658b19916e996ca4ff66f50471311bede7424b52d7d77614ebfde94"
+    },
+    "baoyu-comic": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "b5fc38e57235d57b2a33964b710da743bf5dd3b673a61c3d1743d9755ad44666"
+    },
+    "baoyu-cover-image": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "2998a944e1d9310c68fc04c21953a5c5529e54de97fefcba8192d846ea89c1ee"
+    },
+    "baoyu-image-gen": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "5d4ebeb9b7d6c616d7a4cb0a7c00074c427da53fb63df7b22fa61a0f6f28ced6"
+    },
+    "baoyu-imagine": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "b9ea8a14f3c62a1b8887482c09d68043ea6e4c2bb695213a265f9ba9ea75596a"
+    },
+    "baoyu-slide-deck": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "aa04e0367dc255776c7c7294a6dfc75f8674838bbc04e918084bf1239a4003b7"
+    },
+    "baoyu-xhs-images": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "344662e1f6c42d6d68e244974c7735657280eaf02840b527c44b5dc7d538be47"
+    }
+  }
+}

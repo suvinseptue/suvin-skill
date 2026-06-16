@@ -9,7 +9,12 @@ This is a **Claude Code skill repository** containing skill definitions and supp
 ## Repository Structure
 
 - **`skills/`** — Skill definitions consumed by Claude Code's skill system
-  - `skills/brainstorming/SKILL.md` — Requirements elicitation skill (Chinese: 需求追问框架). Triggered when users describe product ideas, upload requirements docs, or ask for feature brainstorming.
+  - `skills/suvin-brain-storm/` — Requirements elicitation skill (Chinese: 需求追问框架)
+  - `skills/suvin-long-writer/` — Long-form WeChat article writing skill
+  - `skills/suvin-short-writer/` — Short-form content writing skill
+  - `skills/erp-trading-design-expert/` — ERP design expert for container and commodity trading companies
+- **`.agents/skills/`** — Third-party installed skills (baoyu-* image/content generation skills)
+- **`skills-lock.json`** — Lock file for installed third-party skills
 - **`docs/references/`** — Reference documentation and implementation details for skills
   - `docs/references/brainstorming/SKILL.md` — Main brainstorming skill spec (English). Defines the full design-before-implementation workflow with a hard gate: no code may be written until a design is presented and approved.
   - `docs/references/brainstorming/visual-companion.md` — Guide for the browser-based visual companion used during brainstorming.
