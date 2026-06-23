@@ -1,0 +1,4 @@
+interface:
+  display_name: "clarify-requirements"
+  short_description: "通过逐步提问澄清想法，覆盖背景用户诉求与关键流程信息"
+  default_prompt: "Use $clarify-requirements to clarify my product idea into a complete requirements document."

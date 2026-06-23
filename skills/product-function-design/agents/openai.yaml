@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Function Design"
+  short_description: "从需求澄清文档推导完整PRD产品方案"
+  default_prompt: "Use $product-function-design to turn this requirement clarification document into a complete PRD."
